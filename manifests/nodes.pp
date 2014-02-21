@@ -1,0 +1,3 @@
+node 'alexandre' {
+  include nginx
+}
